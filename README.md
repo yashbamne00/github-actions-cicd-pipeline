@@ -16,7 +16,7 @@ This project shows how to deploy a Flask web application on an AWS EC2 Ubuntu se
 
 \- AWS EC2
 
-\- Ubuntu 22.04
+\- Ubuntu 22.040
 
 \- Docker
 
